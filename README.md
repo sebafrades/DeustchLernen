@@ -1,1 +1,5 @@
+I used OOP to create a Python code to practice Irregular verbs in German language
+
 You can add new Irregular Verbs in the .csv file with the corresponding order and then simply run the .py file, if you wish to practice the irregular verbs then run the practice function, if new verbs are added you can sort them with the sort function
+
+There are currently A1 irregular verbs
