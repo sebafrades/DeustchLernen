@@ -48,11 +48,10 @@ class Irregular_verb:
 Irregular_verb.instantiate_from_csv()
 
 def practice():
-    for word in Irregular_verb.all:
-        #for word in random.sample(Irregular_verb.all,len(Irregular_verb.all)):
-        print(word.verb)
 
-        """
+    for word in random.sample(Irregular_verb.all,len(Irregular_verb.all)):
+        print(word.verb)
+        
         while True:
             Answer = input("Ich : ")
 
@@ -94,7 +93,6 @@ def practice():
             if word.tpp == Answer.lower():
                 print("\n")
                 break
-        """
 
         while True:
             Answer = input("hat : ")
