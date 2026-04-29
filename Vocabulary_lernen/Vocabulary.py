@@ -1469,10 +1469,20 @@ Vocabulary_Nicos_Weg_A2_0 = {
     "At least, Minimum" : "mindestens",
     "To pack something" : "etwas packen",
     "Situation" : "die Situation,-en",
-    "Allowance, Pocket money" : "das Taschengeld,-er",
+    "Allowance, Pocket money" : "das Taschengeld",
     "Turkey" : "die Türkei",
     "Accommodation, Board" : "die Unterkunft,Unterkünfte",
     "To earn something" : "etwas verdienen",
+    "To leave something/someone" : "etwas/jemanden verlassen",
+    "Food, Board, Meals" : "die Verpflegung,-en",
+    "Why" : "warum",
+    "Because" : "weil",
+    "To cry" : "weinen",
+    "Why" : "weshalb",
+    "Why" : "wieso",
+    "Home" : "das Zuhause",
+    "It is true that..., but" : "zwar ..., aber",
+
     
 
 
