@@ -1430,7 +1430,7 @@ Vocabulary_Nicos_Weg_A2_0 = {
     "To have/take a look at something" : "sich etwas an|sehen",
     "To look after something/someone" : "auf etwas/jemanden auf|passen",
     "Au-pair (male)" : "der Au-Pair-Junge,-n",
-    "Au-pair (female)" : "das Au-Pair-Mädchen,-n",
+    "Au-pair (female)" : "das Au-Pair-Mädchen,-",
     "That" : "dass",
     "Foreign, Strange, Unfamiliar" : "fremd",
     "At most, Highest" : "höchstens",
