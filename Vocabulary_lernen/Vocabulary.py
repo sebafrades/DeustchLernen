@@ -1424,6 +1424,35 @@ Vocabulary_Kapitel_15 = {
 
 Vocabulary_Nicos_Weg_A2_0 = {
 
+    #Angekommen
+    "Beginning" : "der Anfang,Anfänge",
+    "Telephone Call" : "der Anruf,-e",
+    "To have/take a look at something" : "sich etwas an|sehen",
+    "To look after something/someone" : "auf etwas/jemanden auf|passen",
+    "Au-pair (male)" : "der Au-Pair-Junge,-n",
+    "Au-pair (female)" : "das Au-Pair-Mädchen,-n",
+    "That" : "dass",
+    "Foreign, Strange, Unfamiliar" : "fremd",
+    "At most, Highest" : "höchstens",
+    "Information" : "die Information,-en",
+    "Including" : "inklusive",
+    "At least, Minimum" : "mindestens",
+    "To pack something" : "etwas packen",
+    "Situation" : "die Situation,-en",
+    "Allowance, Pocket money" : "das Taschengeld",
+    "Turkey" : "die Türkei",
+    "Accommodation, Board" : "die Unterkunft,Unterkünfte",
+    "To earn something" : "etwas verdienen",
+    "To leave something/someone" : "etwas/jemanden verlassen",
+    "Food, Board, Meals" : "die Verpflegung,-en",
+    "Why" : "warum",
+    "Because" : "weil",
+    "To cry" : "weinen",
+    "Why" : "weshalb",
+    "Why" : "wieso",
+    "Home" : "das Zuhause",
+    "It is true that..., but" : "zwar ..., aber",
+
     # Lebenslinien
     "High-School Graduation" : "das Abitur",
     "Beginner (male)" : "der Anfänger,-",
@@ -1454,36 +1483,9 @@ Vocabulary_Nicos_Weg_A2_0 = {
     "World" : "die Welt",
     "To return, Come back" : "zurück|kommen",
 
-    #Angekommen
-    "Beginning" : "der Anfang,Anfänge",
-    "Telephone Call" : "der Anruf,-e",
-    "To have/take a look at something" : "sich etwas an|sehen",
-    "To look after something/someone" : "auf etwas/jemanden auf|passen",
-    "Au-pair (male)" : "der Au-Pair-Junge,-n",
-    "Au-pair (female)" : "das Au-Pair-Mädchen,-n",
-    "That" : "dass",
-    "Foreign, Strange, Unfamiliar" : "fremd",
-    "At most, Highest" : "höchstens",
-    "Information" : "die Information,-en",
-    "Including" : "inklusive",
-    "At least, Minimum" : "mindestens",
-    "To pack something" : "etwas packen",
-    "Situation" : "die Situation,-en",
-    "Allowance, Pocket money" : "das Taschengeld",
-    "Turkey" : "die Türkei",
-    "Accommodation, Board" : "die Unterkunft,Unterkünfte",
-    "To earn something" : "etwas verdienen",
-    "To leave something/someone" : "etwas/jemanden verlassen",
-    "Food, Board, Meals" : "die Verpflegung,-en",
-    "Why" : "warum",
-    "Because" : "weil",
-    "To cry" : "weinen",
-    "Why" : "weshalb",
-    "Why" : "wieso",
-    "Home" : "das Zuhause",
-    "It is true that..., but" : "zwar ..., aber",
 
-    
+
+
 
 
 
