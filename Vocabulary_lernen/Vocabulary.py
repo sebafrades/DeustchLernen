@@ -1424,6 +1424,30 @@ Vocabulary_Kapitel_15 = {
 
 Vocabulary_Nicos_Weg_A2_0 = {
 
+    #Pläne machen
+    "To be afraid" : "angst haben",
+    "Work permit" : "die Arbeitserlaubnis,-se",
+    "No way, on no account" : "auf keinen Fall",
+    "Biology" : "die Biologie",
+    "Success" : "der Erfolg,-e",
+    "Successful" : "erfolgreich",
+    "To take an exam" : "Examen machen",
+    "Company" : "die Firma,Firmen",
+    "Law" : "das Gesetz,-e",
+    "Integration" : "die Integration",
+    "Intensive course" : "der Intensivkurs,-e",
+    "Law (studying)" : "Jura",
+    "Opinion" : "die Meinung,-en",
+    "Migrant (male)" : "der Migrant,-en",
+    "Migrant (female)" : "die Migrantin,-nen",
+    "Even better" : "noch besser",
+    "Internship, practical training" : "das Praktikum, Praktika",
+    "Process, procedure" : "der Process,-e",
+    "Studies" : "das Studium,Studien",
+    "Goal, target" : "das Ziel,-e",
+    "Plans for the future" : "der Zukunftsplan,Zukunftspläne",
+    "Future" : "die Zukunft,Zukünfte",
+
     #Angekommen
     "Beginning" : "der Anfang,Anfänge",
     "Telephone Call" : "der Anruf,-e",
