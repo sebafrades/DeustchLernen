@@ -1431,11 +1431,19 @@ Vocabulary_Nicos_Weg_A2_0 = {
     "Grammar" : "die Grammatik",
     "Greeting" : "die Gruß,Grüße",
     "Best regards" : "Mit freundlichen Grüßen",
-    "I would like to know" : "Ich móchte gerne wissen",
+    "I would like to know" : "Ich möchte gerne wissen",
     "King" : "der König,-e",
     "Queen" : "die Königin,-nen",
     "To take a course" : "einen Kurs besuchen",
-    
+    "To have a look, to check, to look up something" : "etwas nach|sehen",
+    "To manage something" : "etwas schaffen",
+    "Ship" : "das Schiff,-e",
+    "Self, oneself" : "selbst",
+    "Worry, concern" : "die Sorge,-n",
+    "To correct, to improve" : "etwas verbessern",
+    "To agree on something, to arrange something" : "etwas vereinbaren",
+    "What about ...?, What's up with ...?" : "was ist mit ...?",
+    "Funny" : "witzig",
 
     #Pläne machen
     "To be afraid" : "angst haben",
