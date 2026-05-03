@@ -509,8 +509,6 @@ Vocabulary_alt = {
     "you are (formal, sing./plural)" : "Sie sind",
     "you are (informal, plural)" : "Ihr seid",
     "you are (informal, singular)" : "du bist",
-
-
 }
 
 Vocabulary_neu = {
@@ -1424,6 +1422,21 @@ Vocabulary_Kapitel_15 = {
 
 Vocabulary_Nicos_Weg_A2_0 = {
 
+    #Sprichst du Deutsch?
+    "Pronounciation" : "die Aussprache",
+    "Definitely, certainly" : "bestimmt",
+    "That isn't enough" : "das reicht nicht",
+    "Dialect" : "der Dialekt,-e",
+    "I am interested (in)" : "Es interessiert mich",
+    "Grammar" : "die Grammatik",
+    "Greeting" : "die Gruß,Grüße",
+    "Best regards" : "Mit freundlichen Grüßen",
+    "I would like to know" : "Ich móchte gerne wissen",
+    "King" : "der König,-e",
+    "Queen" : "die Königin,-nen",
+    "To take a course" : "einen Kurs besuchen",
+    
+
     #Pläne machen
     "To be afraid" : "angst haben",
     "Work permit" : "die Arbeitserlaubnis,-se",
@@ -1441,7 +1454,7 @@ Vocabulary_Nicos_Weg_A2_0 = {
     "Migrant (male)" : "der Migrant,-en",
     "Migrant (female)" : "die Migrantin,-nen",
     "Even better" : "noch besser",
-    "Internship, practical training" : "das Praktikum, Praktika",
+    "Internship, practical training" : "das Praktikum,Praktika",
     "Process, procedure" : "der Process,-e",
     "Studies" : "das Studium,Studien",
     "Goal, target" : "das Ziel,-e",
