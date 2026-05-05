@@ -1528,11 +1528,18 @@ Vocabulary_Nicos_Weg_A2_0 = {
     "World" : "die Welt",
     "To return, Come back" : "zurück|kommen",
 
+}
 
+Vocabulary_Nicos_Weg_A2_1 = {
 
-
-
-
+    #Geld ist für mich...
+    "Than" : "als",
+    "To register" : "sich an|melden",
+    "To spend" : "etwas aus|geben",
+    "Foreigner (male)" : "der Ausländer,-",
+    "Foreigner (female)" : "die Ausländerin,-nen",
+    "Basic bank account" : "das Basiskonto,Basiskonten",
+    "Certificate" : "die Bescheinigung,-en",
 
 
 }
