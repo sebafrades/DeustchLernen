@@ -1549,6 +1549,22 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Thrifty, miserly" : "geizig",
     "Banknote" : "der Geldschein,-e",
     "Conversation" : "das Gespräch,-e",
+    "Current account, checking account" : "das Girokonto,Girokonten",
+    "Account" : "das Konto,Konten",
+    "To be able to afford something" : "sich etwas leisten können",
+    "Coin" : "die Münze,-n",
+    "Mad/angry at someone" : "auf jemanden sauer",
+    "Certainly, surely" : "sicher",
+    "To save (some money)" : "(etwas) sparen",
+    "Savings account" : "das Sparkonto,Sparkonten",
+    "Electricity" : "der Strom",
+    "Really?" : "wirklich?",
+    "Angry, furious" : "wütend",
+    "To save, to set aside" : "etwas zurück|legen",
     
+
+
+
+
 
 }
