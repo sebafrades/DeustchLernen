@@ -1540,6 +1540,15 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Foreigner (female)" : "die Ausländerin,-nen",
     "Basic bank account" : "das Basiskonto,Basiskonten",
     "Certificate" : "die Bescheinigung,-en",
-
+    "Thankful" : "dankbar",
+    "Hence, that is why" : "deshalb",
+    "Relieved" : "erleichtert",
+    "To open something (often for the ifirst time)" : "etwas eröffnen",
+    "Eu citizen (male)" : "der EU-Bürger,-",
+    "To be pleased, to be glad" : "sich freuen",
+    "Thrifty, miserly" : "geizig",
+    "Banknote" : "der Geldschein,-e",
+    "Conversation" : "das Gespräch,-e",
+    
 
 }

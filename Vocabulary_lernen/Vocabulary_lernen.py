@@ -1,8 +1,8 @@
 import random
 
-from Vocabulary import Vocabulary_alt,Vocabulary_neu,Vocabulary_nommen,Vocabulary_neue_nommen,Vocabulary_trennbare_verben,Vocabulary_Kapitel_10,Vocabulary_Kapitel_11,Vocabulary_Kapitel_12,Vocabulary_Kapitel_13,Vocabulary_Nicos_Weg_A2_0 # type: ignore
+from Vocabulary import Vocabulary_Nicos_Weg_A2_1, Vocabulary_alt,Vocabulary_neu,Vocabulary_nommen,Vocabulary_neue_nommen,Vocabulary_trennbare_verben,Vocabulary_Kapitel_10,Vocabulary_Kapitel_11,Vocabulary_Kapitel_12,Vocabulary_Kapitel_13,Vocabulary_Nicos_Weg_A2_0 # type: ignore
 
-Vocabulary = Vocabulary_Nicos_Weg_A2_0
+Vocabulary = Vocabulary_Nicos_Weg_A2_1
 
 choice = input("Random, Consecutive, Learn or Order: ")
 
