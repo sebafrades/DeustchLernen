@@ -1562,7 +1562,20 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Angry, furious" : "wütend",
     "To save, to set aside" : "etwas zurück|legen",
     
-
+    #Mein Bankkonto
+    "To withdraw something" : "etwas ab|heben",
+    "Registration" : "die Anmeldung,-en",
+    "In any case, definitely" : "auf jeden Fall",
+    "To fill out something (i.e., a form)" : "etwas aus|füllen",
+    "Bank clerk (male)" : "der Bankangestellte,-n",
+    "Bank clerk (female)" : "die Bankangestellte,-n",
+    "ATM, cash machine" : "der Geldautomat,-en",
+    "Bank thief (male)" : "der Bankräuber,-",
+    "Bank thief (female)" : "die Bankräuberin,-nen",
+    "Cash" : "das Bargeld",
+    "Income" : "das Einkommen,-",
+    "Secure income" : "das feste Einkommen",
+    
 
 
 
