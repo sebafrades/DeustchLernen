@@ -1463,7 +1463,7 @@ Vocabulary_Nicos_Weg_A2_0 = {
     "Migrant (female)" : "die Migrantin,-nen",
     "Even better" : "noch besser",
     "Internship, practical training" : "das Praktikum,Praktika",
-    "Process, procedure" : "der Process,-e",
+    "Process, procedure" : "der Prozess,-e",
     "Studies" : "das Studium,Studien",
     "Goal, target" : "das Ziel,-e",
     "Plans for the future" : "der Zukunftsplan,Zukunftspläne",
@@ -1575,6 +1575,10 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Cash" : "das Bargeld",
     "Income" : "das Einkommen,-",
     "Secure income" : "das feste Einkommen",
+    "Marital status" : "der Familienstand",
+    "Form" : "das Formular,-e",
+    "Fee" : "die Gebühr,-en",
+    "Birthdate" : "das Geburtsdatum,Geburtsdaten",
     
 
 
