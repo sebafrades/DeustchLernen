@@ -1532,6 +1532,57 @@ Vocabulary_Nicos_Weg_A2_0 = {
 
 Vocabulary_Nicos_Weg_A2_1 = {
 
+    #Rechnungen
+    "To debit or to charge something" : "etwas ab|buchen",
+    "To be deducted" : "ab|gehen",
+    "To pay attention to something/somebody" : "auf etwas/jemanden achten",
+    "To leave something on, to leave something running" : "etwas an|lassen",
+    "Kind, type, form" : "die Art,-en",
+    "To turn something off" : "etwas aus|schalten",
+    "To attest something" : "etwas bescheinigen",
+    "Amount" : "der Betrag,Beträge",
+    "Standing order" : "der Dauerauftrag,Daueraufträge",
+    "To enter something (like a password)" : "etwas ein|geben",
+    "To enter or apply" : "ein|gehen",
+    "To set something up (physical/technical)" : "etwas ein|richten",
+    
+
+
+    #Mein Bankkonto
+    "To withdraw something" : "etwas ab|heben",
+    "Registration" : "die Anmeldung,-en",
+    "In any case, definitely" : "auf jeden Fall",
+    "To fill out something (i.e., a form)" : "etwas aus|füllen",
+    "Bank clerk (male)" : "der Bankangestellte,-n",
+    "Bank clerk (female)" : "die Bankangestellte,-n",
+    "ATM, cash machine" : "der Geldautomat,-en",
+    "Bank thief (male)" : "der Bankräuber,-",
+    "Bank thief (female)" : "die Bankräuberin,-nen",
+    "Cash" : "das Bargeld",
+    "Income" : "das Einkommen,-",
+    "Secure income" : "das feste Einkommen",
+    "Marital status" : "der Familienstand",
+    "Form" : "das Formular,-e",
+    "Fee" : "die Gebühr,-en",
+    "Birthdate" : "das Geburtsdatum,Geburtsdaten",
+    "Place of birth" : "der Geburtsort,-e",
+    "PIN number" : "die Geheimzahl,-en",
+    "Gender" : "das Geschlecht,-er",
+    "Debit card" : "die Girocard,-s",
+    "Loan, credit" : "der Kredit,-e",
+    "Credit card" : "die Kreditkarte,-n",
+    "To lend somebody something" : "jemandem etwas leihen",
+    "To mean something" : "etwas/jemanden meinen",
+    "What do you mean by that?" : "was meinst du damit?",
+    "To inquire" : "nach|fragen",
+    "Nationality" : "die Nationalität,-en",
+    "By, via" : "per",
+    "via post" : "per Post",
+    "PIN" : "die PIN-Nummer,-n",
+    "To overdraw (money)" : "etwas überziehen",
+    "Superior (male)" : "der Vorgesetzte,-n",
+    "Superior (female)" : "die Vorgesetzte,-n",
+
     #Geld ist für mich...
     "Than" : "als",
     "To register" : "sich an|melden",
@@ -1562,26 +1613,4 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Angry, furious" : "wütend",
     "To save, to set aside" : "etwas zurück|legen",
     
-    #Mein Bankkonto
-    "To withdraw something" : "etwas ab|heben",
-    "Registration" : "die Anmeldung,-en",
-    "In any case, definitely" : "auf jeden Fall",
-    "To fill out something (i.e., a form)" : "etwas aus|füllen",
-    "Bank clerk (male)" : "der Bankangestellte,-n",
-    "Bank clerk (female)" : "die Bankangestellte,-n",
-    "ATM, cash machine" : "der Geldautomat,-en",
-    "Bank thief (male)" : "der Bankräuber,-",
-    "Bank thief (female)" : "die Bankräuberin,-nen",
-    "Cash" : "das Bargeld",
-    "Income" : "das Einkommen,-",
-    "Secure income" : "das feste Einkommen",
-    "Marital status" : "der Familienstand",
-    "Form" : "das Formular,-e",
-    "Fee" : "die Gebühr,-en",
-    "Birthdate" : "das Geburtsdatum,Geburtsdaten",
-    
-
-
-
-
 }
