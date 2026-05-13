@@ -1532,6 +1532,7 @@ Vocabulary_Nicos_Weg_A2_0 = {
 
 Vocabulary_Nicos_Weg_A2_1 = {
 
+<<<<<<< Updated upstream
     #Rechnungen
     "To debit or to charge something" : "etwas ab|buchen",
     "To be deducted" : "ab|gehen",
@@ -1548,6 +1549,8 @@ Vocabulary_Nicos_Weg_A2_1 = {
     
 
 
+=======
+>>>>>>> Stashed changes
     #Mein Bankkonto
     "To withdraw something" : "etwas ab|heben",
     "Registration" : "die Anmeldung,-en",
@@ -1557,7 +1560,10 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Bank clerk (female)" : "die Bankangestellte,-n",
     "ATM, cash machine" : "der Geldautomat,-en",
     "Bank thief (male)" : "der Bankräuber,-",
+<<<<<<< Updated upstream
     "Bank thief (female)" : "die Bankräuberin,-nen",
+=======
+>>>>>>> Stashed changes
     "Cash" : "das Bargeld",
     "Income" : "das Einkommen,-",
     "Secure income" : "das feste Einkommen",
@@ -1572,6 +1578,7 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Loan, credit" : "der Kredit,-e",
     "Credit card" : "die Kreditkarte,-n",
     "To lend somebody something" : "jemandem etwas leihen",
+<<<<<<< Updated upstream
     "To mean something" : "etwas/jemanden meinen",
     "What do you mean by that?" : "was meinst du damit?",
     "To inquire" : "nach|fragen",
@@ -1582,6 +1589,20 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "To overdraw (money)" : "etwas überziehen",
     "Superior (male)" : "der Vorgesetzte,-n",
     "Superior (female)" : "die Vorgesetzte,-n",
+=======
+    "To mean something" : "etwas meinen",
+    "What do you mean by that?" : "Was meinst du damit?",
+    "To inquire" : "nach|fragen",
+    "Nationality" : "die Nationalität,-en",
+    "By, via" : "per",
+    "Via post" : "per Post",
+    "To overdraw (regarding money)" : "etwas überziehen",
+    "Superior" : "der Vorgesetzte,-n",
+
+
+
+
+>>>>>>> Stashed changes
 
     #Geld ist für mich...
     "Than" : "als",
@@ -1613,4 +1634,13 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Angry, furious" : "wütend",
     "To save, to set aside" : "etwas zurück|legen",
     
+<<<<<<< Updated upstream
+=======
+
+
+
+
+
+
+>>>>>>> Stashed changes
 }
