@@ -1532,6 +1532,7 @@ Vocabulary_Nicos_Weg_A2_0 = {
 
 Vocabulary_Nicos_Weg_A2_1 = {
 
+<<<<<<< Updated upstream
     #Rechnungen
     "To debit or to charge something" : "etwas ab|buchen",
     "To be deducted" : "ab|gehen",
@@ -1548,6 +1549,8 @@ Vocabulary_Nicos_Weg_A2_1 = {
     
 
 
+=======
+>>>>>>> Stashed changes
     #Mein Bankkonto
     "To withdraw something" : "etwas ab|heben",
     "Registration" : "die Anmeldung,-en",
