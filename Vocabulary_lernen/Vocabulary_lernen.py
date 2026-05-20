@@ -50,7 +50,7 @@ if choice == "Random":
 elif choice == "Consecutive":
 
     Vocabulary_list = list(Vocabulary.keys())
-    #random.shuffle(Vocabulary_list)
+    random.shuffle(Vocabulary_list)
     
     Vocabulary_mistakes = {}
 
