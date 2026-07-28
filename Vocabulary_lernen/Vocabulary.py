@@ -846,13 +846,6 @@ Vocabulary_neue_nommen = {
     "Devil/Demon" : "Der Taufel",
     "Exam (2)" : "Die Prüfung",
     
-
-
-
-
-
-
-
 }
 
 Vocabulary_trennbare_verben = {
@@ -1532,25 +1525,36 @@ Vocabulary_Nicos_Weg_A2_0 = {
 
 Vocabulary_Nicos_Weg_A2_1 = {
 
-<<<<<<< Updated upstream
-    #Rechnungen
-    "To debit or to charge something" : "etwas ab|buchen",
-    "To be deducted" : "ab|gehen",
-    "To pay attention to something/somebody" : "auf etwas/jemanden achten",
-    "To leave something on, to leave something running" : "etwas an|lassen",
-    "Kind, type, form" : "die Art,-en",
-    "To turn something off" : "etwas aus|schalten",
-    "To attest something" : "etwas bescheinigen",
-    "Amount" : "der Betrag,Beträge",
-    "Standing order" : "der Dauerauftrag,Daueraufträge",
-    "To enter something (like a password)" : "etwas ein|geben",
-    "To enter or apply" : "ein|gehen",
-    "To set something up (physical/technical)" : "etwas ein|richten",
-    
+    #Geld ist für mich...
+    "Than" : "als",
+    "To register" : "sich an|melden",
+    "To spend" : "etwas aus|geben",
+    "Foreigner (male)" : "der Ausländer,-",
+    "Foreigner (female)" : "die Ausländerin,-nen",
+    "Basic bank account" : "das Basiskonto,Basiskonten",
+    "Certificate" : "die Bescheinigung,-en",
+    "Thankful" : "dankbar",
+    "Hence, that is why" : "deshalb",
+    "Relieved" : "erleichtert",
+    "To open something (often for the first time)" : "etwas eröffnen",
+    "Eu citizen (male)" : "der EU-Bürger,-",
+    "To be pleased, to be glad" : "sich freuen",
+    "Thrifty, miserly" : "geizig",
+    "Banknote" : "der Geldschein,-e",
+    "Conversation" : "das Gespräch,-e",
+    "Current account, checking account" : "das Girokonto,Girokonten",
+    "Account" : "das Konto,Konten",
+    "To be able to afford something" : "sich etwas leisten können",
+    "Coin" : "die Münze,-n",
+    "Mad/angry at someone" : "auf jemanden sauer",
+    "Certainly, surely" : "sicher",
+    "To save (some money)" : "(etwas) sparen",
+    "Savings account" : "das Sparkonto,Sparkonten",
+    "Electricity" : "der Strom",
+    "Really?" : "wirklich?",
+    "Angry, furious" : "wütend",
+    "To save, to set aside" : "etwas zurück|legen",
 
-
-=======
->>>>>>> Stashed changes
     #Mein Bankkonto
     "To withdraw something" : "etwas ab|heben",
     "Registration" : "die Anmeldung,-en",
@@ -1575,7 +1579,7 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Loan, credit" : "der Kredit,-e",
     "Credit card" : "die Kreditkarte,-n",
     "To lend somebody something" : "jemandem etwas leihen",
-    "To mean something" : "etwas/jemanden meinen",
+    "To mean something/someone" : "etwas/jemanden meinen",
     "What do you mean by that?" : "was meinst du damit?",
     "To inquire" : "nach|fragen",
     "Nationality" : "die Nationalität,-en",
@@ -1586,34 +1590,177 @@ Vocabulary_Nicos_Weg_A2_1 = {
     "Superior (male)" : "der Vorgesetzte,-n",
     "Superior (female)" : "die Vorgesetzte,-n",
 
-    #Geld ist für mich...
-    "Than" : "als",
-    "To register" : "sich an|melden",
-    "To spend" : "etwas aus|geben",
-    "Foreigner (male)" : "der Ausländer,-",
-    "Foreigner (female)" : "die Ausländerin,-nen",
-    "Basic bank account" : "das Basiskonto,Basiskonten",
-    "Certificate" : "die Bescheinigung,-en",
-    "Thankful" : "dankbar",
-    "Hence, that is why" : "deshalb",
-    "Relieved" : "erleichtert",
-    "To open something (often for the ifirst time)" : "etwas eröffnen",
-    "Eu citizen (male)" : "der EU-Bürger,-",
-    "To be pleased, to be glad" : "sich freuen",
-    "Thrifty, miserly" : "geizig",
-    "Banknote" : "der Geldschein,-e",
-    "Conversation" : "das Gespräch,-e",
-    "Current account, checking account" : "das Girokonto,Girokonten",
-    "Account" : "das Konto,Konten",
-    "To be able to afford something" : "sich etwas leisten können",
-    "Coin" : "die Münze,-n",
-    "Mad/angry at someone" : "auf jemanden sauer",
-    "Certainly, surely" : "sicher",
-    "To save (some money)" : "(etwas) sparen",
-    "Savings account" : "das Sparkonto,Sparkonten",
-    "Electricity" : "der Strom",
-    "Really?" : "wirklich?",
-    "Angry, furious" : "wütend",
-    "To save, to set aside" : "etwas zurück|legen",
-    
+    #Rechnungen
+    "To debit or to charge something" : "etwas ab|buchen",
+    "To be deducted" : "ab|gehen",
+    "To pay attention to something/somebody" : "auf etwas/jemanden achten",
+    "To leave something on, to leave something running" : "etwas an|lassen",
+    "Kind, type, form" : "die Art,-en",
+    "To turn something off" : "etwas aus|schalten",
+    "To attest something" : "etwas bescheinigen",
+    "Amount" : "der Betrag,Beträge",
+    "Standing order" : "der Dauerauftrag,Daueraufträge",
+    "To enter something (like a password)" : "etwas ein|geben",
+    "To enter or apply" : "ein|gehen",
+    "To set something up (physical/technical)" : "etwas ein|richten",
+    "To deposit something" : "etwas ein|zahlen",
+    "Recipient (male)" : "der Empfänger,-",
+    "To remind someone of something" : "jemanden an etwas erinnern",
+    "Reminder" : "die Erinnerung,-en",
+    "Gas" : "das Gas",
+    "To be in the minus, in the red" : "im Minus sein",
+    "To be in the plus, in the black" : "im Plus sein",
+    "Account holder (male)" : "der Kontoinhaber,-",
+    "Account balance" : "der Kontostand,Kontostände",
+    "To take out a loan, to borrow (loan, money)" : "einen Kredit auf|nehmen",
+    "To look after, take care of something/somebody" : "sich um etwas/jemanden kümmern",
+    "Direct debit" : "die Lastschrift,-en",
+    "Light" : "das Licht,-er",
+    "Warning, overdue notice" : "die Mahnung,-en",
+    "Receipt, bill" : "die Quittung,-en",
+
+    #Am Bankautomaten
+    "Cancellation, demolition, abortion" : "der Abbruch,Abbrüche",
+    "To print out something" : "etwas aus|drucken",
+    "To choose something/somebody" : "etwas/jemanden aus|wählen",
+    "Payout, withdrawal" : "die Auszahlung,-en",
+    "Vending machine" : "der Automat,-en",
+    "Confirmation" : "die Bestätigung,-en",
+    "Data (information)" : "die Daten",
+    "To print (something)" : "(etwas) drucken",
+    "To press something" : "auf etwas drücken",
+    "To enter something (like a PIN)" : "etwas ein|geben",
+    "Deposit, (in)payment" : "die Einzahlung,-en",
+    "An error message" : "die Fehlermeldung,-en",
+    "To come out" : "heraus|kommen",
+    "Account statement" : "der Kontoauszug,Kontoauszüge",
+    "Correction" : "die Korrektur,-en",
+    "Possible" : "möglich",
+    "PIN" : "die PIN,-s",
+    "Semester(s)" : "das Semester,-",
+    "To stick inside" : "stecken",
+    "Button, key (on a keyboard)" : "die Taste,-n",
+    "To click on, to tap on" : "auf etwas tippen",
+    "Lastly, finally" : "zuletzt",
+}
+
+Vocabulary_Nicos_Weg_A2_2 = {
+
+    #Familiengeschichten
+    "To leave, to dip out, to scram" : "ab|hauen",
+    "Besides" : "außerdem",
+    "At" : "bei",
+    "Grown-up, mature" : "erwachsen",
+    "With" : "mit",
+    "To push something, to move something" : "etwas schieben",
+    "Single person" : "der Single,-s",
+    "To play with somebody" : "mit jemandem spielen",
+    "Strict" : "streng",
+    "To forget something/someone" : "etwas/jemanden vergessen",
+    "To listen to someone" : "jemandem zu|hören",
+
+    #Personen beschreiben
+    "First, in the beginning" : "am Anfang",
+    "Beard" : "der Bart,Bärte",
+    "To describe something/somebody" : "etwas/jemanden beschreiben",
+    "Blonde" : "blond",
+    "All the way, completely" : "ganz",
+    "Heart" : "das Herz,-en",
+    "To smile" : "lächeln",
+    "Song" : "das Lied,-er",
+    "Note" : "die Notiz,-en",
+    "Open, open-mindend" : "offen",
+    "Tolerant, open-minded" : "tolerant",
+    "To translate something" : "etwas übersetzen",
+    "Preparation" : "die Vorbereitung,-en",
+    "Repetition" : "die Wiederholung,-en",
+
+    #Generationen
+    "Geriatric nurse (male)" : "der Altenpfleger,-",
+    "Geriatric nurse (female)" : "die Altenpflegerin,-nen",
+    "Outpatient" : "Ambulant",
+    "To accompany something/someone, to support sth/sb" : "etwas/jemanden begleiten",
+    "Complaints, symptoms" : "die Beschwerden",
+    "Refugee home" : "das Flüchtlingsheim,-e",
+    "Walking stick" : "der Gehstock,Gehstöcke",
+    "Hearing aid" : "das Hörgerät,-e",
+
+    #Alten- und Pflegeheim
+    "Retirement home" : "das Altenheim,-e",
+    "Excellent" : "ausgezeichnet",
+    "That's why, for that reason" : "deswegen",
+    "Lonely" : "einsam",
+    "Energy, power" : "die Energie,-n",
+    "Reason" : "der Grund,Gründe",
+    "Mobile, portable" : "mobil",
+    "Retiree, pensioner (male)" : "der Rentner,-",
+    "Retiree, pensioner (female)" : "die Rentnerin,-nen",
+    "Weak" : "schwach",
+    "Oh, Pardon!" : "Oh, Verzeihung!",
+}
+
+Vocabulary_Nicos_Weg_A2_3 = {
+
+    #Wohngemeinschaft
+    "Iron (for clothing)" : "das Bügeleisen,-",
+    "to iron (something)" : "(etwas) bügeln",
+    "Brusch, scrubber" : "die Bürste,-n",
+    "Chaos" : "das Chaos",
+    "To move in" : "ein|ziehen",
+    "To sweep (something)" : "(etwas) fegen",
+    "Rag, cloth" : "der Lappen,-",
+
+}
+
+Grammatik_Aktiv = {
+
+    #Reflexive (und reziproke) Verben
+    "To comb (oneself)" : "sich kämmen",
+    "To get dressed" : "sich an|ziehen",
+    "To wash (oneself)" : "sich waschen",
+    "To undress (oneself)" : "sich aus|ziehen",
+    "To injure (oneself)" : "sich verletzen",
+    "To introduce (oneself)" : "sich vor|stellen",
+    "To cut (oneself)" : "sich schneiden",
+    "To entertain, chat (oneself)" : "sich unterhalten",
+    "To get a doctor's note" : "sich krankschreiben lassen",
+    "To remember/recall (oneself)" : "sich erinnern an",
+    "To prepare (oneself)" : "sich vor|bereiten",
+    "To dress up/make oneself look nice" : "sich schick machen",
+    "To get lose (on foot)" : "sich verlaufen",
+    "To argue/fight (about something)" : "sich streiten (über etwas)",
+    "To apologize (to someone)" : "sich entschuldigen (bei jemandem)",
+    "To fall in love (with somebody)" : "sich verlieben (in jemanden)",
+    "To separate/split up (from somebody)" : "sich trennen (von jemandem)",
+    "To enjoy oneself" : "sich amüsieren",
+
+    #51: Reflexivpronomen im Dativ
+    "To comb one's (specific part)" : "sich etwas kämmen",
+    "To put on (clothing)" : "sich etwas an|ziehen",
+    "To wash one's (specific body part)" : "sich etwas waschen",
+    "To take off (clothing)" : "sich etwas aus|ziehen",
+    "To injure (specific body part)" : "sich etwas verletzen",
+    "To buy something for oneself" : "sich etwas kaufen",
+    "To wish oneself something" : "sich etwas wünschen",
+    "To choose something for oneself" : "sich etwas aus|suchen",
+    "To imagine something" : "sich etwas vor|stellen",
+    "To plan something for oneself" : "sich etwas vor|nehmen",
+    "To break, fracture one's (specific body part)" : "sich etwas brechen",
+    "To worry about something" : "sich Sorgen um etwas machen",
+    "To cut one's (specific body part)" : "sich etwas schneiden",
+    "To have/get something made/done (for oneself)" : "sich etwas machen lassen",
+    "To paint/polish one´s (nails)" : "sich die Nägel lackieren",
+
+    #Trennbare und untrennbare Verben
+    "To buy something" : "ein|kaufen",
+    "To call somebody" : "an|rufen",
+    "To turn off (electronics), to arrange/agree on (an appointment)" : "aus|machen",
+    "To invite somebody" : "ein|laden",
+    "To tidy up, to clean up" : "auf|räumen",
+    "To enter, get in, board" : "ein|steigen",
+    "To get out, exit" : "aus|steigen",
+    "To start/turn on (engines, cars)" : "an|springen",
+
+
+
 }
