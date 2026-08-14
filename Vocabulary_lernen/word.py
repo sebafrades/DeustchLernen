@@ -8,6 +8,7 @@ class Word:
 
     image: str | None = None
     audio: str | None = None
+    example: str | None = None
 
     correct: int = 0
     wrong: int = 0

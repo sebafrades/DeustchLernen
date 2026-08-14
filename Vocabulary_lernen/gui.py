@@ -15,20 +15,13 @@ from PySide6.QtCore import Qt
 
 from trainer import Trainer
 
-from PySide6.QtWidgets import (
-    QMainWindow,
-    QComboBox,
-    QPushButton,
-    QVBoxLayout,
-    QWidget
-)
-
 from Vocabulary import (
     Vocabulary_Nicos_Weg_A2_0,
     Vocabulary_Nicos_Weg_A2_1,
     Vocabulary_Nicos_Weg_A2_2,
     Vocabulary_Nicos_Weg_A2_3
 )
+
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -169,6 +162,19 @@ class MainWindow(QMainWindow):
         self.resultLabel.setAlignment(Qt.AlignCenter)
 
         trainer_layout.addWidget(self.resultLabel)
+
+        # ---------- Example ----------
+
+        self.exampleLabel = QLabel()
+        self.exampleLabel.setAlignment(Qt.AlignCenter)
+        self.exampleLabel.setWordWrap(True)
+        self.exampleLabel.setStyleSheet("""
+            font-size: 20px;
+            color: #aaa;
+            font-style: italic;
+        """)
+
+        trainer_layout.addWidget(self.exampleLabel)
 
         # ---------- Next ----------
 
@@ -324,6 +330,7 @@ class MainWindow(QMainWindow):
         self.answerBox.setFocus()
 
         self.resultLabel.clear()
+        self.exampleLabel.clear()
 
         self.showAnswerButton.setEnabled(False)
         self.nextButton.setEnabled(False)
@@ -333,7 +340,7 @@ class MainWindow(QMainWindow):
         word = self.trainer.next_word()
 
         if word is None:
-            self.end_name()
+            self.end_game()
             return
 
         self.display_word(word)
@@ -343,7 +350,7 @@ class MainWindow(QMainWindow):
         word = self.trainer.random_word()
 
         self.display_word(word)
-    
+
     def check_answer(self):
 
         answer = self.answerBox.text().strip()
@@ -353,6 +360,9 @@ class MainWindow(QMainWindow):
             self.current_word.correct += 1
 
             self.resultLabel.setText("✔ Correct!")
+
+            if self.current_word.example:
+                self.exampleLabel.setText(f"Example: {self.current_word.example}")
 
             self.nextButton.setEnabled(True)
 
@@ -372,6 +382,9 @@ class MainWindow(QMainWindow):
         self.resultLabel.setText(
             f"Answer: {self.current_word.answer}"
         )
+
+        if self.current_word.example:
+            self.exampleLabel.setText(f"Example: {self.current_word.example}")
 
         self.nextButton.setEnabled(True)
 
@@ -394,4 +407,5 @@ class MainWindow(QMainWindow):
 
         self.checkButton.setEnabled(False)
         self.showAnswerButton.setEnabled(False)
-        self.nextButton.setEnabled(False)    
+        self.nextButton.setEnabled(False)
+        self.exampleLabel.clear()
