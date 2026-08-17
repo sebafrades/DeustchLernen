@@ -1758,6 +1758,30 @@ Vocabulary_Nicos_Weg_A2_3 = [
     Word("Impolite", "unhöflich", example="Es war unhöflich, nicht zu grüßen."),
     Word("When, if", "wenn", example="Wenn es regnet, bleiben wir zu Hause."),
 
+    #Kinder
+    Word("Single parent", "alleinerziehend", example="Meine Schwester ist alleinerziehend und hat zwei Kinder."),
+    Word("Single parent (male)", "der Alleinerziehende,-n", example="Als Alleinerziehender hat er wenig freie Zeit."),
+    Word("Everything OK?", "Alles in Ordnung?", example="Alles in Ordnung? Du siehst müde aus."),
+    Word("To offer, to serve", "etwas an|bieten", example="Die Kita bietet auch Betreuung am Wochenende an."),
+    Word("Offering, range", "das Angebot,-e", example="Das Angebot der Schule ist sehr vielfältig."),
+    Word("To maintain sth, to look after sth/sb", "etwas/jemanden betreuen", example="Meine Mutter betreut die Kinder am Nachmittag."),
+    Word("Care", "die Betreuung", example="Die Betreuung in der Kita ist kostenlos."),
+    Word("That means", "das heißt", example="Er kommt später, das heißt, wir müssen warten."),
+    Word("To lose one's nerves, to lose one's cool", "die Nerven verlieren", example="Bei so viel Stress verliere ich schnell die Nerven."),
+    Word("To have a baby", "ein Kind bekommen", example="Meine Schwester hat letzten Monat ein Kind bekommen."),
+    Word("To end", "enden", example="Die Schule endet um 13 Uhr."),
+    Word("To rear sb, to nurture sb, to educate sb", "jemanden erziehen", example="Es ist nicht einfach, drei Kinder allein zu erziehen."),
+    Word("Kindergarten teacher (male)", "der Erzieher,-", example="Der Erzieher spielt jeden Tag mit den Kindern."),
+    Word("Kindergarten teacher (female)", "die Erzieherin,-nen", example="Die Erzieherin kümmert sich liebevoll um die Kleinen."),
+    Word("Voluntary, volunteer, voluntarily", "freiwillig", example="Die Teilnahme an dem Kurs ist freiwillig."),
+    Word("Elementary school", "die Grundschule,-n", example="Meine Tochter geht seit letztem Jahr in die Grundschule."),
+    Word("Group", "die Gruppe,-n", example="Die Kinder sind in kleine Gruppen eingeteilt."),
+    Word("Daycare center, day nursery", "die Kindertagesstätte,-n", example="Unser Sohn geht seit September in die Kindertagesstätte."),
+    Word("Some, certain", "mancher,manche,manches", example="Manche Eltern arbeiten Teilzeit, um mehr Zeit mit den Kindern zu haben."),
+    Word("Pregnant", "schwanger", example="Meine Kollegin ist im sechsten Monat schwanger."),
+    Word("Difficult", "schwierig", example="Die Prüfung war sehr schwierig."),
+    Word("Daycare, childminder", "die Tagesmutter,Tagesmütter", example="Die Tagesmutter betreut vier Kinder in ihrer Wohnung."),
+    Word("To be together", "zusammen sein", example="Am Wochenende sind wir immer zusammen."),
 ]
 
 Grammatik_Aktiv = [

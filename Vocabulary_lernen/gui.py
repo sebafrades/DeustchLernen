@@ -183,6 +183,14 @@ class MainWindow(QMainWindow):
 
         trainer_layout.addWidget(self.nextButton)
 
+        # ---------- Retry Missed ----------
+
+        self.retryMissedButton = QPushButton("Retry Missed Words")
+        self.retryMissedButton.setEnabled(False)
+        self.retryMissedButton.hide()
+
+        trainer_layout.addWidget(self.retryMissedButton)
+
         self.trainer_page.setLayout(trainer_layout)
 
         self.pages.addWidget(self.trainer_page)
@@ -252,6 +260,7 @@ class MainWindow(QMainWindow):
         self.checkButton.clicked.connect(self.check_answer)
         self.showAnswerButton.clicked.connect(self.show_answer)
         self.nextButton.clicked.connect(self.next_question)
+        self.retryMissedButton.clicked.connect(self.retry_missed_words)
 
         self.answerBox.returnPressed.connect(self.check_answer)
 
@@ -282,6 +291,11 @@ class MainWindow(QMainWindow):
         self.current_mode = self.mode_menu.currentText()
 
         self.trainer = Trainer(vocabulary)
+
+        self.answerBox.setEnabled(True)
+        self.checkButton.setEnabled(True)
+        self.retryMissedButton.hide()
+        self.retryMissedButton.setEnabled(False)
 
         self.pages.setCurrentWidget(self.trainer_page)
 
@@ -379,6 +393,8 @@ class MainWindow(QMainWindow):
 
     def show_answer(self):
 
+        self.trainer.mark_missed(self.current_word)
+
         self.resultLabel.setText(
             f"Answer: {self.current_word.answer}"
         )
@@ -409,3 +425,23 @@ class MainWindow(QMainWindow):
         self.showAnswerButton.setEnabled(False)
         self.nextButton.setEnabled(False)
         self.exampleLabel.clear()
+
+        if self.trainer.has_missed_words():
+            count = len(self.trainer.missed_words)
+            self.resultLabel.setText(f"{count} word(s) missed.")
+            self.retryMissedButton.setEnabled(True)
+            self.retryMissedButton.show()
+        else:
+            self.resultLabel.setText("Perfect run!")
+            self.retryMissedButton.hide()
+
+    def retry_missed_words(self):
+
+        self.trainer.retry_missed()
+
+        self.answerBox.setEnabled(True)
+        self.checkButton.setEnabled(True)
+        self.retryMissedButton.hide()
+        self.retryMissedButton.setEnabled(False)
+
+        self.next_word()
